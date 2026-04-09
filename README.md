@@ -5,11 +5,13 @@ A modern Health & Wellness tracking iOS app built with SwiftUI, following MVVM a
 
 
 ## Screenshots
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-09 at 12 53 56" src="https://github.com/user-attachments/assets/d2446fcc-c950-4b3e-ae52-d8111cf59963" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-09 at 12 53 38" src="https://github.com/user-attachments/assets/c02ed49d-8b33-4f01-9524-aa1211145eac" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-09 at 12 53 10" src="https://github.com/user-attachments/assets/9a0c342f-b86b-4957-8e57-15b8ec67f80e" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-09 at 12 53 02" src="https://github.com/user-attachments/assets/1cc8b0da-6c2b-445d-818a-f18186213b59" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2446fcc-c950-4b3e-ae52-d8111cf59963" width="24%" />
+  <img src="https://github.com/user-attachments/assets/c02ed49d-8b33-4f01-9524-aa1211145eac" width="24%" />
+  <img src="https://github.com/user-attachments/assets/9a0c342f-b86b-4957-8e57-15b8ec67f80e" width="24%" />
+  <img src="https://github.com/user-attachments/assets/1cc8b0da-6c2b-445d-818a-f18186213b59" width="24%" />
+</p>
 
 ## Features
 
