@@ -7,10 +7,10 @@ A modern Health & Wellness tracking iOS app built with SwiftUI, following MVVM a
 ## Screenshots
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/1cc8b0da-6c2b-445d-818a-f18186213b59" width="200"/>
   <img src="https://github.com/user-attachments/assets/d2446fcc-c950-4b3e-ae52-d8111cf59963" width="200"/>
   <img src="https://github.com/user-attachments/assets/c02ed49d-8b33-4f01-9524-aa1211145eac" width="200"/>
   <img src="https://github.com/user-attachments/assets/9a0c342f-b86b-4957-8e57-15b8ec67f80e" width="200"/>
-  <img src="https://github.com/user-attachments/assets/1cc8b0da-6c2b-445d-818a-f18186213b59" width="200"/>
 </p>
 
 ## Features
